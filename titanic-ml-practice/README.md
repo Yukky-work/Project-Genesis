@@ -45,7 +45,7 @@
 
 ### Directory Structure
 ```
-Project_Genesis/
+titanic-ml-practice/
 ├── app.py              # アプリケーション本体 (Streamlit)
 ├── titanic_model.pkl   # 学習済みAIモデル (Joblib)
 ├── requirements.txt    # 依存ライブラリ一覧
@@ -126,3 +126,4 @@ Project_Genesis/
 ---
 
 *© 2025 Project_Genesis. Released under the [MIT License](./LICENSE).*
+
