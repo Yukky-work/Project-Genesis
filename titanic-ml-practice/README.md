@@ -44,7 +44,7 @@
 ## 🛠 Architecture & Tech (技術構成)
 
 ### Directory Structure
-```bash
+```
 Project_Genesis/
 ├── app.py              # アプリケーション本体 (Streamlit)
 ├── titanic_model.pkl   # 学習済みAIモデル (Joblib)
@@ -54,6 +54,8 @@ Project_Genesis/
 ├── notebooks/
 │   └── Titanic_Gemini.ipynb  # データ分析・モデル構築の過程 (Jupyter)
 └── README.md           # This file
+```
+---
 
 ### Technology Stack
 * **Language:** Python 3.10
@@ -82,13 +84,19 @@ Project_Genesis/
 あなたのローカル環境でこのアプリを動かす手順です。
 
 1. **Clone the repo**
-   ```bash
+   ```
    git clone [https://github.com/YourUsername/Project_Genesis.git](https://github.com/YourUsername/Project_Genesis.git)
-   cd Project_Genesis2. **Install dependencies**
-   ```bash
+   ```
+   ```
+   cd Project_Genesis2. Install dependencies
+   ```
+   ```
    pip install -r requirements.txt
-2. **Run the app**
+   ```
+3. **Run the app**
+   ```
     streamlit run app.py
+   ```
 
 ## 🗺️ Roadmap (今後の展望)
 私は **Cloud & AI Engineer** としてのキャリア構築を目指し、現在はGoogle Cloudエコシステムを中心とした技術習得に取り組んでいます。
@@ -105,7 +113,7 @@ Project_Genesis/
 **Lead Developer: Yukky**
 * **Cloud & AI Engineer** (Aspiring)
 * Focus: Python, Google Cloud, Generative AI
-* [GitHub Profile](https://github.com/) | [LinkedIn](https://www.linkedin.com/)
+* [GitHub Profile](https://github.com/) | [LinkedIn](https://www.linkedin.com/in/yukiya-nishiyama-37b7aa3a1)
 
 **Co-Developed with Team Genesis (AI Agents):**
 * **Gemini** (Project Manager)
@@ -116,4 +124,5 @@ Project_Genesis/
 * **Shiori** (Wellness Mentor)
 
 ---
+
 *© 2025 Project_Genesis. Released under the [MIT License](./LICENSE).*
