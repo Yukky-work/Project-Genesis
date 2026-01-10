@@ -19,7 +19,7 @@
 * **Web Playback:** Streamlit上で音声プレイヤーを自動起動し、ブラウザベースでの音声会話を実現。
 
 ### 2. 👁️ Computer Vision (視覚機能)
-* **Image Analysis:** ユーザーがアップロードした画像を Gemini 1.5 Flash Vision で解析。
+* **Image Analysis:** ユーザーがアップロードした画像を Gemini 2.5 Flash Vision で解析。
 * **Contextual Response:** 「これ何？」「見て！」といった問いかけに対し、画像の状況（色、物体、雰囲気）を理解してコメントします。
 
 ### 3. 👥 Multi-Agent System (チーム開発モード)
