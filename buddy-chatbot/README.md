@@ -37,7 +37,7 @@
 ## 🛠️ Tech Stack (使用技術)
 
 * **Language:** Python 3.11
-* **LLM:** Google Gemini 1.5 Flash (via `google-generativeai`)
+* **LLM:** Google Gemini 2.5 Flash (via `google-generativeai`)
 * **Frontend:** Streamlit
 * **Audio:** VOICEVOX (Local Server), `requests`
 * **Image Processing:** Pillow (PIL)
