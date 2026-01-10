@@ -3,12 +3,12 @@
 **Personal AI Assistant System built with Python, Gemini API, and Streamlit.**
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
-![Gemini API](https://img.shields.io/badge/Google%20Gemini-1.5%20Flash-orange?style=for-the-badge&logo=google)
+![Gemini API](https://img.shields.io/badge/Google%20Gemini-2.5%20Flash-orange?style=for-the-badge&logo=google)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?style=for-the-badge&logo=streamlit)
 ![VOICEVOX](https://img.shields.io/badge/VOICEVOX-TTS-green?style=for-the-badge)
 
 ## 📖 Overview (概要)
-**"Fuu"** は、生成AI (Google Gemini 1.5 Flash) を活用した、多機能なパーソナルAIアシスタントです。
+**"Fuu"** は、生成AI (Google Gemini 2.5 Flash) を活用した、多機能なパーソナルAIアシスタントです。
 単なるテキストチャットに留まらず、**「音声会話」「視覚（画像認識）」「人格の切り替え」** を実装し、ユーザーに寄り添うパートナーとして開発しました。
 レガシーな開発環境から脱却し、最新のLLM技術をキャッチアップするために個人開発を行っています。
 
