@@ -1,0 +1,6 @@
+id,name,color,status,x,y,z,size,civilization,population
+1,Star-1,Purple,Born,37,-47,-53,22,Ancient (Mystery),96
+2,Star-2,Purple,Born,-79,23,25,35,Ancient (Mystery),32
+3,Star-3,Blue,Born,-16,-15,40,27,Cybernetic (AI),2593981
+4,Star-4,Red,Born,-99,36,55,47,Warrior (Combat),26490
+5,Star-5,Yellow,Born,-14,10,39,17,Agrarian (Farm),1989122
